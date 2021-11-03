@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shiva5152/react-demo-uplod.git/static/css/main.a617e044.chunk.css",
+    "main.js": "/shiva5152/react-demo-uplod.git/static/js/main.e366f605.chunk.js",
+    "main.js.map": "/shiva5152/react-demo-uplod.git/static/js/main.e366f605.chunk.js.map",
+    "runtime-main.js": "/shiva5152/react-demo-uplod.git/static/js/runtime-main.ebd0d82a.js",
+    "runtime-main.js.map": "/shiva5152/react-demo-uplod.git/static/js/runtime-main.ebd0d82a.js.map",
+    "static/js/2.764cf429.chunk.js": "/shiva5152/react-demo-uplod.git/static/js/2.764cf429.chunk.js",
+    "static/js/2.764cf429.chunk.js.map": "/shiva5152/react-demo-uplod.git/static/js/2.764cf429.chunk.js.map",
+    "static/js/3.4c0dd45b.chunk.js": "/shiva5152/react-demo-uplod.git/static/js/3.4c0dd45b.chunk.js",
+    "static/js/3.4c0dd45b.chunk.js.map": "/shiva5152/react-demo-uplod.git/static/js/3.4c0dd45b.chunk.js.map",
+    "index.html": "/shiva5152/react-demo-uplod.git/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/shiva5152/react-demo-uplod.git/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.764cf429.chunk.js.LICENSE.txt": "/shiva5152/react-demo-uplod.git/static/js/2.764cf429.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/shiva5152/react-demo-uplod.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebd0d82a.js",
+    "static/js/2.764cf429.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.e366f605.chunk.js"
+  ]
+}
